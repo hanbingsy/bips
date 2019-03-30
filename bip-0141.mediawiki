@@ -7,7 +7,7 @@
           Pieter Wuille <pieter.wuille@gmail.com>
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0141
-  Status: Draft
+  Status: Final
   Type: Standards Track
   Created: 2015-12-21
   License: PD
@@ -324,6 +324,7 @@ https://github.com/bitcoin/bitcoin/pull/8149
 *[[bip-0016.mediawiki|BIP16 Pay to Script Hash]]
 *[[bip-0143.mediawiki|BIP143 Transaction Signature Verification for Version 0 Witness Program]]
 *[[bip-0144.mediawiki|BIP144 Segregated Witness (Peer Services)]]
+*[[bip-0173.mediawiki|BIP173 Base32 address format for native v0-16 witness outputs]]
 
 == Copyright ==
 
